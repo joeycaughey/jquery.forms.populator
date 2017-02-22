@@ -1,6 +1,6 @@
 /*!
   Forms Populator jQuery plugin.
-  https://github.com/jeoycaughey/jquery.forms.populator
+  https://github.com/joeycaughey/jquery.forms.populator
   version 0.0.1 (Feb, 2017)
 
   Multidimensional array/JSON to HTML form populator.
