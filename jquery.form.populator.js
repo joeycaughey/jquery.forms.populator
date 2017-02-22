@@ -3,7 +3,7 @@
   https://github.com/jeoycaughey/jquery.forms.populator
   version 0.0.1 (Feb, 2017)
 
-  Multidimentional JSON to form populator.
+  Multidimensional array/JSON to HTML form populator.
 
 
   Copyright (c) 2017 Joey Caughey (joey.caughey@gmail.com)
