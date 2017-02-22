@@ -8,7 +8,7 @@
 
   Copyright (c) 2017 Joey Caughey (joey.caughey@gmail.com)
   http://www.joeycaughey.com
-  
+
   Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
   and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
 */
@@ -44,9 +44,11 @@ function parse_nodes(nodes) {
         if (i == 0) {
             output += node;
         } else {
-            if (!isNaN(node)) {
+            /*
+            if (!isNaN(parseInt(node))) {
                 node = node;
             }
+            */
             output += "[" + node + "]";
         }
     })
